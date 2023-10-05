@@ -30,7 +30,7 @@ Gostaria de conversar sobre programação, matemática, neurociência ou qualque
 
 <div align="center">
   
-  ![GIF Legal](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
+  ![GIF Gatinho](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
   
 </div>
 

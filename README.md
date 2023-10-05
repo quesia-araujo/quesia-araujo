@@ -27,4 +27,4 @@ Gostaria de conversar sobre programação, matemática, neurociência ou qualque
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quesia-araujo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![GIF Legal](https://giphy.com/embed/lJNoBCvQYp7nq)
+![GIF Legal](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)

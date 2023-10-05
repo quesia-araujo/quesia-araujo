@@ -1,6 +1,6 @@
 ## Olá, eu sou Quesia!
 
-Sou uma desenvolvedora apaixonada por tecnologia e aprendizado contínuio.
+Sou uma desenvolvedora apaixonada por tecnologia e aprendizado contínuo.
 
 ### Minha Formação
 

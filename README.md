@@ -1,19 +1,26 @@
 ## Olá, eu sou Quesia!
 
-Sou uma introvertida apaixonada por programação, com uma mente aberta para o mundo do conhecimento. Adoro matemática, tenho fascínio por neurociência e psicologia, e estou mergulhando no universo da programação com Python e JavaScript.
+Sou uma desenvolvedora apaixonada por tecnologia e aprendizado contínuio.
 
-### 💻 Atualmente Aprendendo
+### Minha Formação
 
-- 🐍 Python.
-- 🌐 JavaScript.
+- 🎓 Formada em Ciência da Computação.
+- 🎓 Mestra em Computação Aplicada.
+- 🎓 Atualmente cursando Ciência de Dados.
 
-### 🌱 Minha Jornada de Aprendizado
+### Experiência Educacional
 
-Estou em uma jornada constante de aprendizado e crescimento. Neste espaço, compartilho recursos valiosos que encontro em minha jornada de aprendizado em Python e JavaScript. 
+- 👩‍🏫 Professora de Robótica Educacional: Trabalhei como professora de robótica educacional, ajudando estudantes a explorar a programação e a engenharia de forma divertida e educativa.
 
-### 🤝 Vamos Conectar!
+- 👩‍🏫 Professora de Informática Básica e Investigação Tecnológica e Científica: Atualmente, sou professora de informática básica e investigação tecnológica e científica. Meu objetivo é capacitar os alunos a compreenderem e explorarem o mundo da tecnologia e da ciência.
 
-Gostaria de conversar sobre programação, matemática, neurociência ou qualquer outro tópico interessante? Vamos nos conectar nas redes sociais!
+### Habilidades e Interesses
+
+- 💻 Linguagens de Programação: Python e JavaScript.
+- 🤖 Inteligência Artificial e Aprendizado de Máquina.
+- 📊 Análise de Dados e Visualização.
+
+### 🤝 Redes Sociais
 
 - [LinkedIn](https://www.linkedin.com/in/quesia-araujo/)
 - [Instagram](https://www.instagram.com/quesia.exe/)

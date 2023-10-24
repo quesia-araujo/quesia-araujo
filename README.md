@@ -1,15 +1,5 @@
 ## Olá, eu sou Quesia!
 
-Sou uma desenvolvedora apaixonada por tecnologia e aprendizado contínuo.
-
-
-
-
-### 🤝 Redes Sociais
-
-- [LinkedIn](https://www.linkedin.com/in/quesia-araujo/)
-- [Instagram](https://www.instagram.com/quesia.exe/)
-
 
 ### Github Status: 
 
